@@ -1,6 +1,6 @@
 /* CSS for PrintXBlock */
 
-.printxblock button {
+.printXBlock button {
   -webkit-border-radius: 8 !important;
   -moz-border-radius: 8 !important;
  border: 0px !important;
@@ -13,11 +13,11 @@
  text-shadow: none !important;
  letter-spacing: 1px !important;
 }
-.printxblock button:focus {
+.printXBlock button:focus {
   background: #0a4687 !important;
   text-decoration: none !important;
 }
-.printxblock button:hover {
+.printXBlock button:hover {
   background: #0a4687 !important;
   text-decoration: none !important;
 }
