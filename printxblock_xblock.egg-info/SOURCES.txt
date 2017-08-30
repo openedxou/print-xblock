@@ -1,0 +1,12 @@
+printxblock/__init__.py
+printxblock/printxblock.py
+printxblock/static/README.txt
+printxblock/static/css/printxblock.css
+printxblock/static/html/printxblock.html
+printxblock/static/js/src/printxblock.js
+printxblock_xblock.egg-info/PKG-INFO
+printxblock_xblock.egg-info/SOURCES.txt
+printxblock_xblock.egg-info/dependency_links.txt
+printxblock_xblock.egg-info/entry_points.txt
+printxblock_xblock.egg-info/requires.txt
+printxblock_xblock.egg-info/top_level.txt
