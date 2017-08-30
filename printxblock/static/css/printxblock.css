@@ -1,12 +1,15 @@
 /* CSS for PrintXBlock */
 
+.printXBlock {
+  text-align: right;
+}
+
 .printXBlock button {
   -webkit-border-radius: 8 !important;
   -moz-border-radius: 8 !important;
  border: 0px !important;
   border-radius: 8px !important;
   color: #ffffff !important;
-  font-size: 20px !important;
   background: #0B55A8 !important;
   padding: 10px 20px 10px 20px !important;
   text-decoration: none !important;
