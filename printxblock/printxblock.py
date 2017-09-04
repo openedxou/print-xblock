@@ -35,4 +35,4 @@ class PrintXBlock(StudioEditableXBlockMixin, XBlock):
         return frag
     
     # Make fields editable in studio
-    editable_fields = ('display_name')
+    editable_fields = ('display_name', )
