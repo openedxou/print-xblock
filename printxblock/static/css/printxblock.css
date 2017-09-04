@@ -27,3 +27,9 @@
     background: #065683 !important;
     text-decoration: none !important;
 }
+
+@media print{
+  .printXBlock{
+       display:none;    
+  }
+}
