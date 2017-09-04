@@ -5,22 +5,25 @@
 }
 
 .printXBlock button {
-  -webkit-border-radius: 8 !important;
-  -moz-border-radius: 8 !important;
- border: 0px !important;
-  border-radius: 8px !important;
-  color: #ffffff !important;
-  background: #0B55A8 !important;
-  padding: 10px 20px 10px 20px !important;
-  text-decoration: none !important;
- text-shadow: none !important;
- letter-spacing: 1px !important;
+    -webkit-border-radius: 8 !important;
+    -moz-border-radius: 8 !important;
+    border: 0px !important;
+    border-radius: 8px !important;
+    padding: 10px 20px 10px 20px !important;
+    text-decoration: none !important;
+    text-shadow: none !important;
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    color: #fff;
+    background-color: #0075b4 !important;
+    background-image: none !important;
 }
 .printXBlock button:focus {
-  background: #0a4687 !important;
-  text-decoration: none !important;
+    background: #065683 !important;
+    text-decoration: none !important;
 }
 .printXBlock button:hover {
-  background: #0a4687 !important;
-  text-decoration: none !important;
+    background: #065683 !important;
+    text-decoration: none !important;
 }
