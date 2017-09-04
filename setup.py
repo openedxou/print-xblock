@@ -21,15 +21,16 @@ def package_data(pkg, roots):
 
 
 setup(
-    name='printxblock-xblock',
+    name='print-xblock',
     version='0.1',
-    description='An xblock to simplify printing of Open edX units',   # TODO: write a better description.
+    description='An xblock to simplify printing of Open edX pages',
     license='AGPL v3',
     packages=[
         'printxblock',
     ],
     install_requires=[
         'XBlock',
+        'xblock-utils'
     ],
     entry_points={
         'xblock.v1': [
