@@ -8,7 +8,7 @@ from xblock.fragment import Fragment
 from xblockutils.studio_editable import StudioEditableXBlockMixin
 
 
-class PrintXBlock(XBlock):
+class PrintXBlock(StudioEditableXBlockMixin, XBlock):
     """
     Simple XBlock that places a button that triggers the print dialogue.
     """
