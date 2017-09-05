@@ -1,7 +1,7 @@
 /* CSS for PrintXBlock */
 
 .printXBlock {
-  text-align: right;
+  text-align: right !important;
 }
 
 .printXBlock button {
