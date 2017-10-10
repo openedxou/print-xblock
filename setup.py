@@ -22,7 +22,7 @@ def package_data(pkg, roots):
 
 setup(
     name='print-xblock',
-    version='0.1',
+    version='1.0',
     description='An xblock to simplify printing of Open edX pages',
     license='AGPL v3',
     packages=[
