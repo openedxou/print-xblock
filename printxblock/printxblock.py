@@ -31,7 +31,6 @@ class PrintXBlock(StudioEditableXBlockMixin, XBlock):
         frag = Fragment(html.format(self=self))
         frag.add_css(self.resource_string("static/css/printxblock.css"))
         frag.add_javascript(self.resource_string("static/js/src/printxblock.js"))
-        frag.initialize_js('PrintXBlock')
         return frag
     
     # Make fields editable in studio
